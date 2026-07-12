@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ayushi4206/DSA-Questions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Ayushi4206/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayushi4206/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ayushi4206/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -17,8 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Ayushi4206/DSA-Questions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ayushi4206/DSA-Questions/tree/master/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ayushi4206/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ayushi4206/DSA-Questions/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ayushi4206/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
