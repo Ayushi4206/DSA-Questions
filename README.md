@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ayushi4206/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushi4206/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ayushi4206/DSA-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ayushi4206/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Ayushi4206/DSA-Questions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Ayushi4206/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayushi4206/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ayushi4206/DSA-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ayushi4206/DSA-Questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Ayushi4206/DSA-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ayushi4206/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Ayushi4206/DSA-Questions/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayushi4206/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ayushi4206/DSA-Questions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Ayushi4206/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ayushi4206/DSA-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ayushi4206/DSA-Questions/tree/master/0088-merge-sorted-array) |
 ## Simulation
 |  |
 | ------- |
