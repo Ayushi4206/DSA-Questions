@@ -1,5 +1,8 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
+        if(s.length()!=t.length()){
+            return false;
+        }
         Map<Character, Integer> map_s = new HashMap<>();
         Map<Character, Integer> map_t = new HashMap<>();
         for(int i=0;i<s.length();i++){
