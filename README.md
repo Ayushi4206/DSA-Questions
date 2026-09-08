@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ayushi4206/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ayushi4206/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Ayushi4206/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Ayushi4206/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ayushi4206/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Ayushi4206/DSA-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ayushi4206/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Ayushi4206/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ayushi4206/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ayushi4206/DSA-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ayushi4206/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Ayushi4206/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Ayushi4206/DSA-Questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayushi4206/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Ayushi4206/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -139,4 +142,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Ayushi4206/DSA-Questions/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ayushi4206/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ayushi4206/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ayushi4206/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
