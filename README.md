@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ayushi4206/DSA-Questions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayushi4206/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayushi4206/DSA-Questions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Ayushi4206/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ayushi4206/DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ayushi4206/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Ayushi4206/DSA-Questions/tree/master/0056-merge-intervals) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ayushi4206/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ayushi4206/DSA-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ayushi4206/DSA-Questions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Ayushi4206/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ayushi4206/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ayushi4206/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushi4206/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayushi4206/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Ayushi4206/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Ayushi4206/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Ayushi4206/DSA-Questions/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ayushi4206/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayushi4206/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayushi4206/DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -197,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ayushi4206/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ayushi4206/DSA-Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
