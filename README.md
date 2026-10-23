@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ayushi4206/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Ayushi4206/DSA-Questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ayushi4206/DSA-Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ayushi4206/DSA-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ayushi4206/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayushi4206/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushi4206/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ayushi4206/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Ayushi4206/DSA-Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ayushi4206/DSA-Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ayushi4206/DSA-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ayushi4206/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayushi4206/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayushi4206/DSA-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayushi4206/DSA-Questions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Ayushi4206/DSA-Questions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
