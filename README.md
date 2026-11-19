@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ayushi4206/DSA-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ayushi4206/DSA-Questions/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Ayushi4206/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Ayushi4206/DSA-Questions/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ayushi4206/DSA-Questions/tree/master/0219-contains-duplicate-ii) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Ayushi4206/DSA-Questions/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
