@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ayushi4206/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushi4206/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ayushi4206/DSA-Questions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Ayushi4206/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Ayushi4206/DSA-Questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayushi4206/DSA-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ayushi4206/DSA-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ayushi4206/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ayushi4206/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Ayushi4206/DSA-Questions/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/Ayushi4206/DSA-Questions/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
